@@ -22,6 +22,8 @@ creator:
 description: 'Indhold: The adventures of Tom Sawyer ; The adventures of Huckleberry
   Finn ; Mark Twain''s sketches ; Mark Twain''s (burlesque) autobiography ; The prince
   and the pauper ; A Connecticut yankee in king Arthur''s court'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28803#The-Works-Of-Mark-TwainAn-Index-of-all-Project-Gutenberg-Editions
 gutenberg_issued: '2009-05-14'
 gutenberg_type: Text
 identifiers:
